@@ -27,9 +27,3 @@ $ pod install
 Cocopods will create a  hellocloud.xcworkspace file.  Open this and build. You should now a starter app that links in the ZeroDark framework.
 
 
-
-
-
-
-
-# hellocloud-starter
